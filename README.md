@@ -29,7 +29,7 @@ This package provides a Matlab implementation of ACCV2016 paper: "Divide and Con
 
 ## Real-time demos
 
-*  
+*  https://www.youtube.com/watch?v=W06ZZki0rTA
 
 ## Publication
 
