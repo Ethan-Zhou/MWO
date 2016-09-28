@@ -17,7 +17,7 @@ This package provides a Matlab implementation of ACCV2016 paper: "Divide and Con
 
     choose a proper directory and clone by: 
     
-    git clone 
+    git clone https://github.com/Ethan-Zhou/MWO.git
     
 ## Usage
 
