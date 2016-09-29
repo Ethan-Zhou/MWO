@@ -21,6 +21,8 @@ This package provides a Matlab implementation of ACCV2016 paper: "Divide and Con
     
 ## Usage
 
+*   Download a dataset from https://vision.in.tum.de/data/datasets/rgbd-dataset/download, fr3 cabinet is recommanded.
+
 *   Run preprocessing/Preprocessing.m which gives you 3D patches saved as independent .mat files.
 
 *   Run tracking/main.m which will give you the 3D motion estimation result. 
