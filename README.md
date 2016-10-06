@@ -39,6 +39,8 @@ The approach is descirbed in the following publication:
 
 *  **Divide and Conquer: Effcient Density-Based Tracking of 3D Sensors in Manhattan Worlds** (Yi Zhou, Laurent Kneip, Cristian Rodriguez, Hongdong Li), The 13th Asian Conference on Computer Vision (ACCV 2016), Oral presentation.
 
+*  **Real Time Rotation Estimation for Dense Depth Senors in Piece-wise Planar Environments** (Yi Zhou, Laurent Kneip, Hongdong Li)Intelligent Robots and Systems (IROS), 2016 IEEE/RSJ International Conference on. 
+
 You can find the paper at http://users.cecs.anu.edu.au/~u5535909/.
 
 ## License
